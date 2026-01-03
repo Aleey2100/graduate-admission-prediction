@@ -1,1 +1,2 @@
 sample file updated.
+sample file i want to cause a merge conflict.
